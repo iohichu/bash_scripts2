@@ -1,0 +1,55 @@
+   0 whoami
+   1 pwd
+   2 1s
+   3 hdbhdbcjbcjhevcjv
+   4 ls
+   5 ls --help
+   6 ls 
+   7 ls -a
+   8 ls
+   9 ls -a
+  10 ls -l
+  11 ls -l -a
+  12 ls -la
+  13 ls 
+  14 ls -a
+  15 ls -al
+  16 ls -l
+  17 ls -la
+  18 pwd
+  19 whoami
+  20 cd ..
+  21 pwd
+  22 ls
+  23 ls -a
+  24 ls -la
+  25 cd ..
+  26 history
+  27 cd 
+  28 cd /
+  29 ls
+  30 cd home
+  31 cd opt
+  32 cd /tmp
+  33 cd /home/
+  34 mkdir test
+  35 ls
+  36 pwd
+  37 cd test
+  38 mkdir user
+  39 ls
+  40 cd user/
+  41 touch file1.txt
+  42 ls
+  43 cd ..
+  44 ls
+  45 tree
+  46 cd ..
+  47 tree
+  48 history
+  49 clear
+  50 ls
+  51 ls /opt
+  52 ls /opt/temu
+  53 ls -a /opt/temu
+  54 history >> history_first_com_vol1.txt

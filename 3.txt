@@ -1,0 +1,4 @@
+     UID     PID    PPID  TTY        STIME COMMAND
+Андр    1922    1921 pty0     09:46:25 /usr/bin/bash
+Андр    1921       1 ?        09:46:25 /usr/bin/mintty
+Андр    2052    1922 pty0     10:01:39 /usr/bin/ps

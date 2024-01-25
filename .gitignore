@@ -1,0 +1,10 @@
+# javafiles
+*.class
+
+# archivs
+*.rar
+*.zip
+
+# folder
+*folder/
+

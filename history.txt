@@ -6,13 +6,11 @@
    6 mkdir -p /root/test3/newfolder
    7 df h
    8 df -h
-   9 df -h > /root/test3/newfolder/myfile.txt
-  10 ls -a | head -9
   11 ls -a / | head -9 
   12 cat /.fscmd 
   13 ls -a / | head -9 >> /root/test3/newfolder/myfile.txt 
   14 whoami
-  15 cat /etc/group | tail -3 | wc -m
+  151 cat /etc/group | tail -3 | wc -m
   16 cat /etc/group | tail -3 | wc -m >> /root/test3/newfolder/myfile.txt 
   17 vi /root/test3/newfolder/myfile.txt 
   18 clear

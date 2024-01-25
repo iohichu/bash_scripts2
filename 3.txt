@@ -1,4 +1,0 @@
-     UID     PID    PPID  TTY        STIME COMMAND
-   admin    2067    1946 pty0     10:01:44 /usr/bin/ps
-   admin    1946    1945 pty0     09:41:00 /usr/bin/bash
-   admin    1945       1 ?        09:41:00 /usr/bin/mintty
